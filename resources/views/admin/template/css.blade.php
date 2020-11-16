@@ -1,0 +1,9 @@
+    <link rel="stylesheet" href="{{ asset('admin_template') }}/css/bootstrap.min.css" type="text/css">
+    <link rel="stylesheet" href="{{ asset('admin_template') }}/css/font-awesome.min.css" type="text/css">
+    <link rel="stylesheet" href="{{ asset('admin_template') }}/css/flaticon.css" type="text/css">
+    <link rel="stylesheet" href="{{ asset('admin_template') }}/css/nice-select.css" type="text/css">
+    <link rel="stylesheet" href="{{ asset('admin_template') }}/css/jquery-ui.min.css" type="text/css">
+    <link rel="stylesheet" href="{{ asset('admin_template') }}/css/magnific-popup.css" type="text/css">
+    <link rel="stylesheet" href="{{ asset('admin_template') }}/css/owl.carousel.min.css" type="text/css">
+    <link rel="stylesheet" href="{{ asset('admin_template') }}/css/slicknav.min.css" type="text/css">
+    <link rel="stylesheet" href="{{ asset('admin_template') }}/css/style.css" type="text/css">
